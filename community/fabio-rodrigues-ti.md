@@ -1,30 +1,30 @@
-\# Fábio Rodrigues
+# Fábio Rodrigues
 
 
 
-\## Conecte-se comigo
+## Conecte-se comigo
 
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fabio-rodrigues-dev/)
-
-
-
-\[!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/fabio-rodrigues-ti)
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fabio-rodrigues-dev/)
 
 
 
-\[!\[E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge\&logo=microsoft-outlook\&logoColor=E94D5F)](frsantos.ti@gmail.com)
+[!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/fabio-rodrigues-ti)
 
 
 
-\## Habilidades
+[!\[E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge\&logo=microsoft-outlook\&logoColor=E94D5F)](frsantos.ti@gmail.com)
 
 
 
-\[!\[Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=E94D5F)](https://git-scm.com/doc)
+## Habilidades
 
 
 
-\[!\[GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=30A3DC)](https://docs.github.com/)
+[!\[Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=E94D5F)](https://git-scm.com/doc)
+
+
+
+[!\[GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=30A3DC)](https://docs.github.com/)
 
 
 
